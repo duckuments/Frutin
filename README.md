@@ -1,7 +1,7 @@
 # Frutin
 Buy fast and fresh fruits and vegetables
 
-![overview](./dic/overview.png)
+![overview](./duc/OverView.png)
 
 
 ```bash
