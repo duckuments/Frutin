@@ -1,6 +1,9 @@
 # Frutin
 Buy fast and fresh fruits and vegetables
 
+![overview](./dic/overview.png)
+
+
 ```bash
 Note : This project is still under development.
 ```
